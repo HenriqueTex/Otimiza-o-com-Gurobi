@@ -1,0 +1,81 @@
+1.Problema do Sapateiro
+
+Variáveis de decisão:
+	X1 = quantidade de sapatos a fabricar por hora
+	X2 = quantidade de cintos a fabricar
+
+Objetivo:  
+	max Lucro = 5x1 + 2x2
+
+Sujeito a:
+	2x1 + 1x2 <= 6
+	10x1 + 12x2 <= 60	
+	X1 >= 0
+	X2 >= 0
+
+2.Problema da Fabrica
+
+Variáveis de decisão:
+	X1 = quantidade de p1
+	X2 = quantidade de p2
+
+Objetivo:  
+	max Lucro = 100x1 + 150x2
+
+Sujeito a:
+	2x1 + 3x2 <= 120
+	x1 <= 40	
+	X2 <= 30
+	X1 >= 0
+	X2 >= 0
+
+
+3.Problema da Televisão
+
+Variáveis de decisão:
+	X1 = Frequencia de A
+	X2 = Frequencia de B
+
+Objetivo:  
+	max= 30000x1 + 10000x2
+
+Sujeito a:
+	20x1 + 10x2 <= 80
+	X1+x2 >= 5	
+	X1 >= 0
+	X2 >= 0
+
+4.Problema dos Cintos
+
+Variáveis de decisão:
+	X1 = quantidade de m1/dia
+	X2 = quantidade de m2/dia
+
+Objetivo:  
+	max Lucro = 4x1+3x2
+
+Sujeito a:
+	2x1 + x2 <= 1000
+	x1 + x2 <= 800	
+	x1 <= 400	
+	x2 <= 700	
+	X1 >= 0
+	X2 >= 0
+
+
+5.Problema da Empresa
+
+Variáveis de decisão:
+	X1 = quantidade de p1
+	X2 = quantidade de p2
+
+Objetivo:  
+	max Lucro = 120x1+150x2
+
+Sujeito a:
+	2x1 + 4x2 <= 100
+	3x1 + 2x2 <= 90	
+	5x1+3x2 <= 120	
+	X1 >= 0
+	X2 >= 0
+	
